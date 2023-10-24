@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Stoiq</h1>
 <h3 align="center">Normal python user</h3>
 
-- 🔭 I’m currently working on **4e61ty Discord bot for moderation**
+- 🔭 I’m currently working on **Zewo Discord bot for moderation**
 
 - ⚡ Fun fact **I like goths**
 
